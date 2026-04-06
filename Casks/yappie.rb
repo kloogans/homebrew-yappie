@@ -1,6 +1,6 @@
 cask "yappie" do
-  version "0.2.0"
-  sha256 "7bf62403b253df0f9bcb230e31b5de3d749c92336b02500ae6c16f8650e0ca2d"
+  version "0.3.0"
+  sha256 "60943900d9e298e2ec00188d920db4b9766dc383477d4400e7b30e3076155720"
 
   url "https://github.com/kloogans/yappie/releases/download/v#{version}/Yappie-v#{version}.zip"
   name "Yappie"
